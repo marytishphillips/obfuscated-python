@@ -5,8 +5,8 @@ orginal_03: From https://github.com/geekcomputers/Python/blob/master/BrowserHist
 original_04: From https://github.com/DhanushNehru/Python-Scripts/blob/master/Tic-Tac-Toe%201/tic_tac_toe.py 
 original_05: From https://github.com/DhanushNehru/Python-Scripts/blob/master/Rock%20Paper%20Scissor%202/rps.py
 original_06: From https://github.com/DhanushNehru/Python-Scripts/blob/master/Star%20Pattern/starPattern.py
-original_07: From
-original_08: From
+original_07: From https://github.com/DhanushNehru/Python-Scripts/blob/master/Countdown%20Timer/timer.py
+original_08: From https://github.com/DhanushNehru/Python-Scripts/blob/master/Convert%20Temperature/Convert%20Temperature.py
 original_09: From
 original_10: From
 original_11: From
