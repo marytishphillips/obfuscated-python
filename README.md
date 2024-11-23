@@ -7,9 +7,9 @@ original_05: From https://github.com/DhanushNehru/Python-Scripts/blob/master/Roc
 original_06: From https://github.com/DhanushNehru/Python-Scripts/blob/master/Star%20Pattern/starPattern.py
 original_07: From https://github.com/DhanushNehru/Python-Scripts/blob/master/Countdown%20Timer/timer.py
 original_08: From https://github.com/DhanushNehru/Python-Scripts/blob/master/Convert%20Temperature/Convert%20Temperature.py
-original_09: From
-original_10: From
-original_11: From
+original_09: From https://github.com/DhanushNehru/Python-Scripts/blob/master/Morse%20Code/main.py
+original_10: From https://github.com/DhanushNehru/Python-Scripts/blob/master/PigeonHole/pigeonhole.py
+original_11: From https://github.com/DhanushNehru/Python-Scripts/blob/master/Pomodoro%20Timer/Pomodoro%20Timer%20MacOS%20Linux.py
 original_12: From
 original_13: From
 original_14: From
