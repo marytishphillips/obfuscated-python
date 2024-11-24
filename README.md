@@ -47,13 +47,13 @@ original_23: From https://www.pyshine.com/Make-a-simple-chess-game-in-python/
 
 original_24: From https://github.com/Python-World/python-mini-projects/blob/master/projects/Duplicate%20files%20remover/duplicatefileremover.py
 
-original_25: From
+original_25: From https://github.com/Python-World/python-mini-projects/blob/master/projects/Billing_system/biling_system.py
 
-original_26: From
+original_26: From https://github.com/avinashkranjan/Amazing-Python-Scripts/blob/main/Connect-4%20game/Connect-4.py
 
-original_27: From
+original_27: From https://github.com/DhanushNehru/Python-Scripts/blob/master/Blackjack/BlackjackGame.py
 
-original_28: From
+original_28: From https://github.com/grantjenks/free-python-games/blob/master/src/freegames/pacman.py
 
 original_29: From
 
