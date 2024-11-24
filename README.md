@@ -45,7 +45,7 @@ original_22: From https://www.geeksforgeeks.org/python-program-to-print-the-fibo
 
 original_23: From https://www.pyshine.com/Make-a-simple-chess-game-in-python/
 
-original_24: From
+original_24: From https://github.com/Python-World/python-mini-projects/blob/master/projects/Duplicate%20files%20remover/duplicatefileremover.py
 
 original_25: From
 
