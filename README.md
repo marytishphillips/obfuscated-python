@@ -27,9 +27,9 @@ original_13: From https://github.com/avinashkranjan/Amazing-Python-Scripts/blob/
 
 original_14: From https://github.com/hastagAB/Awesome-Python-Scripts/blob/master/Countdown/numbers-round.py
 
-original_15: From
+original_15: From https://github.com/DhanushNehru/Python-Scripts/blob/master/Duplicate%20Finder/duplicate-finder.py 
 
-original_16: From
+original_16: From https://github.com/DhanushNehru/Python-Scripts/blob/master/Sorting/bubblesort.py 
 
 original_17: From
 
