@@ -10,7 +10,7 @@ original_08: From https://github.com/DhanushNehru/Python-Scripts/blob/master/Con
 original_09: From https://github.com/DhanushNehru/Python-Scripts/blob/master/Morse%20Code/main.py
 original_10: From https://github.com/DhanushNehru/Python-Scripts/blob/master/PigeonHole/pigeonhole.py
 original_11: From https://github.com/DhanushNehru/Python-Scripts/blob/master/Pomodoro%20Timer/Pomodoro%20Timer%20MacOS%20Linux.py
-original_12: From
+original_12: From https://github.com/grantjenks/free-python-games/blob/master/src/freegames/crypto.py
 original_13: From
 original_14: From
 original_15: From
