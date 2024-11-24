@@ -39,7 +39,7 @@ original_19: From https://github.com/avinashkranjan/Amazing-Python-Scripts/blob/
 
 original_20: From https://github.com/avinashkranjan/Amazing-Python-Scripts/blob/main/CPU%20temperature/temp.py
 
-original_21: From
+original_21: From https://github.com/avinashkranjan/Amazing-Python-Scripts/blob/main/Coffee-Machine-py-game/coffee-machine-py-game.py
 
 original_22: From
 
