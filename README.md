@@ -41,9 +41,9 @@ original_20: From https://github.com/avinashkranjan/Amazing-Python-Scripts/blob/
 
 original_21: From https://github.com/avinashkranjan/Amazing-Python-Scripts/blob/main/Coffee-Machine-py-game/coffee-machine-py-game.py
 
-original_22: From
+original_22: From https://www.geeksforgeeks.org/python-program-to-print-the-fibonacci-sequence/ 
 
-original_23: From
+original_23: From https://www.pyshine.com/Make-a-simple-chess-game-in-python/
 
 original_24: From
 
