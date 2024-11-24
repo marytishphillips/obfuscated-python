@@ -37,7 +37,7 @@ original_18: From https://github.com/avinashkranjan/Amazing-Python-Scripts/blob/
 
 original_19: From https://github.com/avinashkranjan/Amazing-Python-Scripts/blob/main/Brain%20Teaser%20Game/script.py
 
-original_20: From
+original_20: From https://github.com/avinashkranjan/Amazing-Python-Scripts/blob/main/CPU%20temperature/temp.py
 
 original_21: From
 
