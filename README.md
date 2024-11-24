@@ -35,7 +35,7 @@ original_17: From https://github.com/DhanushNehru/Python-Scripts/blob/master/Sub
 
 original_18: From https://github.com/avinashkranjan/Amazing-Python-Scripts/blob/main/Bandwidth-Monitor/bandwidth_py3.py
 
-original_19: From
+original_19: From https://github.com/avinashkranjan/Amazing-Python-Scripts/blob/main/Brain%20Teaser%20Game/script.py
 
 original_20: From
 
