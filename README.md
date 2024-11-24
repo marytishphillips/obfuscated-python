@@ -1,7 +1,7 @@
 # obfuscated-python
-original 01: From 
+original_01: From 
 
-original 02: From https://www.geeksforgeeks.org/top-python-scripts-for-developers-to-implement/ 
+original_02: From https://www.geeksforgeeks.org/top-python-scripts-for-developers-to-implement/ 
 
 orginal_03: From https://github.com/geekcomputers/Python/blob/master/BrowserHistory/backend.py 
 
