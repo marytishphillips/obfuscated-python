@@ -31,9 +31,9 @@ original_15: From https://github.com/DhanushNehru/Python-Scripts/blob/master/Dup
 
 original_16: From https://github.com/DhanushNehru/Python-Scripts/blob/master/Sorting/bubblesort.py 
 
-original_17: From
+original_17: From https://github.com/DhanushNehru/Python-Scripts/blob/master/Subnetting%20Calculator/subnetting_calculator.py
 
-original_18: From
+original_18: From https://github.com/avinashkranjan/Amazing-Python-Scripts/blob/main/Bandwidth-Monitor/bandwidth_py3.py
 
 original_19: From
 
