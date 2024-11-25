@@ -1,1 +1,1 @@
-from .pyarmor_runtime import __pyarmor__
+from .pyarmor_runtime_15 import __pyarmor__
