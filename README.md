@@ -1,6 +1,6 @@
 # obfuscated-python
 
-This is a database of obfuscated Python scripts. Each of the 30 original Python scripts is obfuscated using PyArmor, PYOBFRUSCATE, and Oxyry. Below are the sources of the original scripts. 
+This is a dataset of obfuscated Python scripts. Each of the 30 original Python scripts is obfuscated using PyArmor, PYOBFRUSCATE, and Oxyry. Below are the sources of the original scripts. 
 
 original_01: From https://github.com/hastagAB/Awesome-Python-Scripts/blob/master/automated_email/automated_email.py
 
