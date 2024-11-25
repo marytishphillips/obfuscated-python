@@ -1,5 +1,8 @@
 # obfuscated-python
-original_01: From 
+
+This is a database of obfuscated Python scripts. Each of the 30 original Python scripts is obfuscated using PyArmor, PYOBFRUSCATE, and Oxyry. Below are the sources of the original scripts. 
+
+original_01: From https://github.com/hastagAB/Awesome-Python-Scripts/blob/master/automated_email/automated_email.py
 
 original_02: From https://www.geeksforgeeks.org/top-python-scripts-for-developers-to-implement/ 
 
@@ -55,7 +58,7 @@ original_27: From https://github.com/DhanushNehru/Python-Scripts/blob/master/Bla
 
 original_28: From https://github.com/grantjenks/free-python-games/blob/master/src/freegames/pacman.py
 
-original_29: From
+original_29: From https://github.com/SanjayKotabagi/50-Games-Using-Python/blob/main/Space%20Invaders.py
 
-original_30: From
+original_30: From https://github.com/avinashkranjan/Amazing-Python-Scripts/blob/main/KenKen%20Puzzle%20Solver/kenken_puzzle_solver.py
 
