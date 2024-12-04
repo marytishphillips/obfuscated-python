@@ -1,4 +1,4 @@
-# obfuscated-python
+# ObfuscatedPy
 
 This is a dataset of obfuscated Python scripts. Each of the 30 original Python scripts is obfuscated using PyArmor, PYOBFRUSCATE, and Oxyry. Below are the sources of the original scripts. 
 
